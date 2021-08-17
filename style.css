@@ -1,0 +1,15 @@
+body{
+    background-color: #56876D;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+    container{
+        padding: 30px;
+    
+    
+    img{
+        width: 360px;
+        height: 250px;
+        border: 2px solid;
+        border-radius: 20px;
+    }
